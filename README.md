@@ -42,6 +42,7 @@ This Sales Performance Dashboard is a powerful tool built using Tableau, designe
 *[Here](https://public.tableau.com/shared/CZ9NMNT2K?:display_count=n&:origin=viz_share_link)*
 
 *Link to Tableau file-*
+*[Here](https://github.com/riyanksankhe/Sales_dashboard/blob/4cce186ce8fb4c81297f034a001371a19ad802da/Sales%20Dashboard(sample%20superstore).twbx)*
 
 *Sales analytics*
 ![Screenshot (65)](https://github.com/riyanksankhe/Sales_dashboard/assets/138203213/fe0d8f2d-8ecf-4616-bd42-6b2afb175775)
